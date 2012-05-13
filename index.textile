@@ -1,0 +1,270 @@
+---
+title: El TePe FC // Sitio Oficial
+layout: default
+---
+<div class="panel" id="home">
+
+p=. !=/img/escudo2012TP.png(Escudo Oficial El TePe FC by Nikko)!
+
+p=. Me gusta !{width:20px;}/img/top/facebook-like-button.png(Me gusta El TePe FC en Facebook)!:http://www.facebook.com/ElTpFc/likes El TePe en !{width:15px;}/img/top/facebook-logo.png(El TePe FC en Facebook)!:http://www.facebook.com/ElTpFc
+
+</div>
+
+<div class="panel" id="manifesto">
+
+h1. Manifiesto tepense I
+
+h4. por el Mono (y el Negro Dolina)
+
+Cuando un grupo de amigos no enrolados en ningún equipo se reúnen para jugar, tiene lugar una emocionante ceremonia destinada a establecer quiénes integrarán los dos bandos. Generalmente dos jugadores se enfrentan en un sorteo o pisada y luego cada uno de ellos elige alternadamente a sus futuros compañeros. Se supone que los más diestros serán elegidos en los primeros turnos, quedando para el final los troncos.
+
+Pocos han reparado en el contenido dramático de estos lances. El hombre que está esperando ser elegido vive una situación que rara vez se da en la vida. Sabrá de un modo brutal y exacto en qué medida lo aceptan o lo rechazan. Sin eufemismos, conocerá su verdadera posición en el grupo. A lo largo de los años, muchos futbolistas advertirán su decadencia, conforme a su elección sea cada vez más demorada.
+
+Pero un día alguien comprendió que lo que deseaba era jugar con sus amigos más queridos. Por eso elegía a los que estaban más cerca de su corazón, aunque no fueran tan capaces.
+
+Éste es el mismo criterio de EL TEPE Fútbol Club, que parece una elección apenas sentimental, pero es también estratégico. *Uno juega mejor con sus amigos*. Ellos serán generosos, lo ayudarán, lo comprenderán, lo alentarán y lo perdonarán. Un equipo de hombres que se respetan y se quieren es invencible.
+
+Y si no lo es...
+
+h4. Más vale compartir la derrota con los amigos que la victoria con los extraños o los indeseables.
+
+----------------------------------------------
+
+h1. Manifiesto 2
+
+h4. por Guille
+
+*El TePe* es Bilardista
+
+* a El TePe le gana cualquiera
+* a El TePe lo baila cualquiera
+* a El TePe lo roban los árbitros
+* a El TePe lo ayudan otros árbitros
+* a El TePe le gana el que va último cómodo
+
+h4. pero a *El TePe* nunca jamás nadie le ganó ni le va a ganar de guapo...
+
+----------------------------------------------
+
+h1. Teléfonos
+
+h4. por Rando
+
+* El Tala: 4820237 (preguntar por José)
+** Llamar para avisar si no nos presentamos y cualquier otro trámite que queramos hacer.
+** Horario: A la mañana y después de las 18:30.
+* Cantri: 4934208 ó 155209417
+** Llamar para ver si se suspende la fecha por lluvia.
+
+</div>
+
+<div class="panel" id="team">
+
+h1. Plantel actual
+
+h2. Titulares discutidos -- Suplentes indiscutidos
+
+|\3=. !/img/faces/Cristo.jpg!<br />*Cristo*<br />#2<br />01/10/1979 |=(((()))). &nbsp; |<. !/img/faces/Mono.jpg!<br />*Mono*<br />#22<br />05/05/1977|>. !/img/faces/Rando.jpg!<br />*Rando*<br />#23<br />12/05/1980|
+|<. !/img/faces/Guille.jpg!<br />*Rúcula*<br />#27<br />11/10/1979|=. !/img/faces/Luca.jpg!<br />*luca*<br />#11<br />11/06/1980|>. !/img/faces/Julio.jpg!<br />*Julio*<br />#20<br />29/09/1979|=(((()))). &nbsp; |<. !/img/faces/Diego.jpg!<br />*Diegote _DB1_*<br />#1<br />18/05/1983|>. !/img/faces/Santa.jpg!<br />*santa*<br />#3<br />13/03/1982|
+|<. !/img/faces/Roni.jpg!<br />*Roni*<br />#5<br />15/04/1978|=. !/img/faces/Cabe.jpg!<br />*Cabe*<br />#10<br />25/04/1980|>. !/img/faces/Sebu.jpg!<br />*Sebu _SR9_*<br />#9<br />25/12/1980|=(((()))). &nbsp; |<. !/img/faces/Javo.jpg!<br />*Javo*<br />#8<br />18/08/1983|>. !/img/faces/Chino.jpg!<br />*Chino*<br />#722/02/1980|
+
+</div>
+
+<div class="panel" id="hist">
+
+h1. Así nació El TePe
+
+Septiembre de 2003, en un Cyber que ya no existe, por Roca y Mendoza de la ciudad de Rosario. Dos amigos se preparan para almorzar un sábado al mediodía en el que nunca soñaron que iban a torcer el rumbo de sus vidas y el de muchas otras vidas... que venían derechitas, eh, pero bueno... el diálogo se dió más o menos así:
+
+--Sí, ¿Pollo Stock? Mandame dos hamburguesas completas y una tortilla de papa. Ahá, si, si, ¿cuánto?, ¿en cuánto? ¿más rápido no se puede? Bueno, está bien, chau, ¡ah no pará!, flaco, pará... Cabe, ¿vos que querías comer?
+
+Hecho el pedido, la charla se trataba del fin de un ciclo llamado _*Extremoduro*_. El equipo que fundara el mítico Gustavo Viguera y que contara con recordadas figuras del fútbol en blanco y negro: Gonzalo _Primo_ Honores, Andrés _Rejo_ Rejovitzky, Marcelo _Chacal_ Plá, el propio Viguera mayor, su hermano el _Uchi_ Germán Viguera y un pibe que tenía un Corsa que nos llevaba y traía: Cristán Tosca... ese grupo de veteranos, ya en el ocaso de su carrera quiso llenar de sangre joven a su equipo reclutando primero al _Cabezón_, luego a Cristian Néstor y para liquidarlo bien liquidado a _Rando_ Fraq.
+
+La última etapa de Extremoduro en el torneo de Área 18 ostentaba un récord de 2 empates y el resto de los partidos jugados traducidos en derrotas, amén de los triunfos por ausencia de los rivales. No nos referiremos en esta ocasión al partido contra _La Renga_ porque una cosa es remover el pasado y otra es remover el pozo ciego del fútbol.
+
+--Loco, hay que volver el Country de Funes pero con un equipo renovado, joven, con hambre de gloria.
+
+--Shihic Cbae vnanoamo a jhacsñer uknmnln euiknpoñm.
+
+--¿Qué? 
+
+--Shihic Cbae vnanoamo a jhacsñer uknmnln euiknpoñm.
+
+--Pará, boludo, tragá la hamburguesa y hablá con la boca vacía.
+
+--¡Que sí, Cabe! Vamos a hacer un equipo.
+
+Suena el teléfono...
+
+--Cyberrr... eh sí, Paulita, si, si, no, no, te juro que no. Con Andrés. ¡Andrés, el rubio, mi amigo! Nooo, no lo quiero a él más que a vos... no, vos sos más linda, ¡sos más rubia! No, no podés venir... ¡porque no! Bueno mirá Paula, ¡escuchame! Paula... ¿Paula?... tu tu tuuuuuuuu
+
+--Che, Cabe, ¿es verdad que Paulita entrega?
+
+--Sí. Es verdad, todo es verdad, Andrés. Todo lo que digas de acá hasta el final.
+
+--Uh, loco, no tenés sangre vossss.
+
+--Volvamos al equipo. ¿Vos qué tenés para traer?
+
+--Hay un señor en la facu, que es de Franja Morada, Roni se llama, juega en hipersenior, tiene 40 pero la mueve, juega de 5.
+
+--Listo, yo tengo un 9 que se llama Matías que juega, mete goles a lo loco, pero le pega hasta la madre... y un gordito colorado que le dicen el Peta, a ese hay que invitarlo para que lo traiga a Matías...
+
+--Listo ya tenemos tres, más nosotros dos, cinco. Tenemos que ser entre diez y doce.
+
+--Yo tengo al arquero, se llama Julián, ayer lo vi en un bar, se prende como loco, pero es del Politénico.
+
+--Ah qué puto, seguro es cagón, pero si ataja genial, le decimos a Lucas, a Pato, al Negro y ahí somos nueve. Un arquero, dos defensores, tres mediocampistas y tres delanteros. Nos faltan defensores. Lo metemos a Cristian a defender que le gusta el roce.
+
+--De una pero no lo vamos a llamar a Guille, por favor. No cometamos ese error de nuevo.
+
+--Pero tiene auto Guille. Pensalo, lo ponemos lejos de la pelota, que la toque lo menos posible.
+
+--Bueno, pero le pedimos la inspección técnica vehicular. ¿Dale Rando? Rando, Rando... ¡ey Rando!
+
+--¿Hola Yomo? Sí, quiero medio kilo de helado a Presidente Roca y Mendoza, Cyber...
+
+El resto de la historia todos la conocen:
+
+*3 ascensos, una vez campeón liguilla, una vez subcampeón liguilla, cuatro veces verdugo de descensos, un clásico ganado con un jugador menos, un partido remontado con dos jugadores menos, nunca perdimos una definición por penales, nunca descendimos, le hemos ganado a todos los campeones.*
+
+h3. Han vestido la camiseta del tepe en torneos oficiales
+
+h4. Línea fundadora
+
+# Andrés Fraquelli 
+# Pablo Escudero
+# Lucas Gómez Had
+# Guillermo García
+# Cristian Eschoyez
+# Julián Ronco
+# Roni Goldman 
+
+h4. Fundadores retirados
+
+# Marcelo Gada
+# Patricio Baldino
+# Juan Manuel Petit
+# Matías Ioele
+# Nicolás Ércole
+
+h4. Incorporaciones (no refuerzos)
+
+# Mauro Martínez
+# Santiago Pestarini
+# Diego Bollini
+# Dimas Chantiri
+# Sebastián Ronco
+# Javier Prialis
+
+h4. Incorporaciones retiradas
+
+# Pablo Alfonso
+# Juan Ignacio Benedini
+# Germán Chitarroni
+# El Rafa, el arquero ciego
+# Ezequiel Afanancio
+# Pablo Rasino
+
+h4. Vistieron la camiseta del TP, haciendo el aguante
+
+# Nicolás Ronco
+# Mauro Fosatti
+# Mauro Protano
+# Esteban Filas
+# Joaquín Nanni
+# _Masa_ Mariño
+# Nicolás Distéfano
+
+</div>
+
+<div class="panel" id="stars">
+
+h1. !/img/estrella-negra.png! abr2012
+
+Ascenso a la B (Escritorio)
+
+h1. !/img/estrella-negra.png! 08oct2006
+
+easó Banfu (Clásico con 1 menos)
+
+h1. !/img/estrella-negra.png! 25nov2007
+
+easó Wilmu (Remontada 0-2, y a la E por penales)
+
+h1. !/img/estrella.png! 08nov2010
+
+easó Valu (Campeones de Liguilla por penales con bengala y ascenso a la C)
+
+h1. !/img/estrella-negra.png! 12feb2011
+
+easó Birra (Recopa D 2011)
+
+h1. !/img/estrella-negra.png! 13nov2011
+
+easó Hori (Desvirgación del invicto, qué pasó con el trapo?)
+
+h1. !/img/estrella-negra.png! mar2005
+
+Ascenso a la D (Escritorio)
+
+[e]/img/estrella.png
+
+</div>
+
+<div class="panel" id="media">
+
+h1. Bolumedia de El TePe FC
+
+-----------------------------------
+
+h2. ¡Essstamosss en la B!
+
+El arranque de la temporada 2012 encuentra a nuestro querido TePe ascendido a la división B del "Cantri":Cantri. Los pormenores del logro obtenido por el equipo se desconocen. Lo cierto es que otra estrella (negra) se suma al escudo naranja.
+
+[Cantri]:http://pccfunes.com.ar
+
+p=. !/img/ElTePe-delaB.jpg(El TePe 2011)!
+
+h4=. Plantel de El TePe 2012
+
+p=. _Parados_: SR9, Mono, Luca, santa, Julio, Rando y Javo.
+_Hincados_: Cristo, Diegol, Rúcula, Roni y Cabe.
+
+-----------------------------------
+
+h2. Campeones Liguilla D 2010
+
+p=. !/img/equipo-campeon-liguilla.jpg(El TePe 2010)!
+
+h4=. Plantel CAMPEÓN de El TePe Liguilla D 2010
+
+p=. _Parados_: Alonso, Roni, Mono, Chino, santa, Diego, Julio, Rando, Luca (easó).
+_Hincados_: Cabe, Sebu, Cristo, y Guille.
+
+-----------------------------------
+
+h2. Plantel Temporada 2009
+
+p=. !/img/equipo2009.jpg(El TePe 2009)!
+
+h4=. El TePe vrsión 2009
+
+p=. _Parados_: Luca, Cristo, Diegol, Mono, santa, Guille, Alonso DT.
+_Hincados_: Roni, Rando, Cabe, Chino y Julio.
+
+</div>
+
+<div class="panel" id="stats">
+
+h1. ya llegan, pero tranquilos que estamos primeros!
+
+</div>
+
+<div class="panel" id="forum">
+
+<a id="nabblelink" href="http://el-tepe-fc.20560.n6.nabble.com/">El TePe FC</a>
+<script src="http://el-tepe-fc.20560.n6.nabble.com/embed/f1"></script>
+
+</div>
+

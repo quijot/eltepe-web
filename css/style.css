@@ -1,0 +1,178 @@
+/* Eric Meyer Reset CSS File */
+
+@import url("reset.css");
+
+/*** Body Styles ***/
+
+body
+{
+	font-family: Helvetica, sans-serif;
+	font-size: 13px;
+	color: #111;
+	background: #333;
+	padding: 20px 0;
+}
+
+/*** Misc Styles ***/
+
+a { color: #111; text-decoration: none; font-weight: bold; }
+a:hover { color: #F50; }
+p { margin: 0 0 15px 0; }
+strong { font-weight: bold; }
+em { font-style: italic; }
+
+/*** Main Presentation Styles ***/
+
+#centrecontainer
+{
+	position: absolute;
+	top: 50%;
+	left: 0px;
+	width: 100%;
+}
+
+	#outercontainer
+	{
+		margin-left: -480px;
+		position: absolute;
+		top: -320px;
+		left: 50%;
+	}
+	
+		#container
+		{
+			width: 960px;
+			height: 600px;
+			background: #EEE;
+		}
+
+/* Main Menu Styles */
+
+#menucont
+{
+	width: 960px;
+	height: 40px;
+}
+
+	#menucont ul { float: right; list-style-type: none; }
+	#menucont ul li { display: inline; }
+	#menucont ul li a { float: left; line-height: 40px; padding: 0 15px; color: #EEE; text-transform: uppercase; font-size: 22px; }
+	#menucont ul li a:hover { color: #F50; }
+
+
+
+/* Header Styles */
+
+#container #headercont
+{
+	width: 920px;
+	height: 60px;
+	padding: 35px 20px 0 20px;
+	background: #F50;
+	text-align: right;
+	border-bottom: 5px solid #333;
+}
+
+	#container #headercont h1 a
+	{
+		font-size: 46px;
+		text-transform: uppercase;
+		color: #222;
+	}
+	
+	#container #headercont h1 a:hover
+	{
+		color: #EEE;
+	}
+
+
+
+/* Main Body Styles */
+
+#container #maincont
+{
+	width: 960px;
+	line-height: 22px;
+	text-align: justify;
+}
+
+
+
+	/* Coda Slider Styles */
+	
+	#container #maincont #slider
+	{
+		position: relative;
+		width: 960px;
+	}
+	
+	#container #maincont .scroll
+	{
+		position: relative;
+		clear: left;
+		width: 960px;
+		height: 500px;
+		overflow: auto;
+		overflow-x: hidden;
+	}
+	
+	#container #maincont .scrollContainer div.panel
+	{
+		width: 920px;
+		height: 460px;
+		overflow: auto;
+		padding: 20px;
+	}
+
+
+
+	/* Heading Styles */
+	
+	#container #maincont h1, #container #maincont h2
+	{
+		margin: 0 0 20px 0;
+		font-weight: bold;
+		color: #222;
+		text-transform: uppercase;
+	}
+	
+	#container #maincont h3, #container #maincont h4
+	{
+		margin: 0 0 15px 0;
+		color: #F50;
+		text-transform: uppercase;
+	}
+
+	#container #maincont h1 { font-size: 33px; line-height: 32px; }
+	#container #maincont h2 { font-size: 29px; line-height: 28px; }
+	#container #maincont h3 { font-size: 26px; line-height: 25px; }
+	#container #maincont h4 { font-size: 23px; line-height: 22px; }
+	#container #maincont h5 { font-size: 20px; line-height: 19px; }
+	
+	/* General Layout Styles */
+	
+	#container #maincont ul { margin: 0 0 15px 30px; }
+	#container #maincont ul li { list-style-type: circle; }
+	
+	#container #maincont ol { margin: 0 0 15px 30px; }
+	#container #maincont ol li { list-style-type: decimal; }
+	
+	#container #maincont img.imgright { float: right; padding: 0 0 15px 15px; }
+	#container #maincont img.imgleft { float: left; padding: 0 15px 15px 0; }
+
+
+/* Footer Styles */
+
+#footercont
+{
+	clear: both;
+	width: 960px;
+	font-size: 11px;
+	color: #888;
+	text-align: right;
+	padding: 20px 0;
+}
+
+	#footercont a { color: #EEE; text-decoration: none; font-weight: normal; }
+	
+	#footercont a:hover { color: #F50; }
