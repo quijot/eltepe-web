@@ -66,7 +66,7 @@ h2. Titulares discutidos -- Suplentes indiscutidos
 
 |\3=. !/img/faces/Cristo.jpg!<br />*Cristo*<br />#2<br />01/10/1979 |=(((()))). &nbsp; |<. !/img/faces/Mono.jpg!<br />*Mono*<br />#22<br />05/05/1977|>. !/img/faces/Rando.jpg!<br />*Rando*<br />#23<br />12/05/1980|
 |<. !/img/faces/Guille.jpg!<br />*Rúcula*<br />#27<br />11/10/1979|=. !/img/faces/Luca.jpg!<br />*luca*<br />#11<br />11/06/1980|>. !/img/faces/Julio.jpg!<br />*Julio*<br />#20<br />29/09/1979|=(((()))). &nbsp; |<. !/img/faces/Diego.jpg!<br />*Diegote _DB1_*<br />#1<br />18/05/1983|>. !/img/faces/Santa.jpg!<br />*santa*<br />#3<br />13/03/1982|
-|<. !/img/faces/Roni.jpg!<br />*Roni*<br />#5<br />15/04/1978|=. !/img/faces/Cabe.jpg!<br />*Cabe*<br />#10<br />25/04/1980|>. !/img/faces/Sebu.jpg!<br />*Sebu _SR9_*<br />#9<br />25/12/1980|=(((()))). &nbsp; |<. !/img/faces/Javo.jpg!<br />*Javo*<br />#8<br />18/08/1983|>. !/img/faces/Chino.jpg!<br />*Chino*<br />#722/02/1980|
+|<. !/img/faces/Roni.jpg!<br />*Roni*<br />#5<br />15/04/1978|=. !/img/faces/Cabe.jpg!<br />*Cabe*<br />#10<br />25/04/1980|>. !/img/faces/Sebu.jpg!<br />*Sebu _SR9_*<br />#9<br />25/12/1980|=(((()))). &nbsp; |<. !/img/faces/Javo.jpg!<br />*Javo*<br />#8<br />18/08/1983|>. !/img/faces/Chino.jpg!<br />*Chino*<br />#7<br />22/02/1980|
 
 </div>
 
