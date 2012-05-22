@@ -1,13 +1,13 @@
 /* Eric Meyer Reset CSS File */
 
 @import url("reset.css");
+@import url(http://fonts.googleapis.com/css?family=Ruluko);
 
 /*** Body Styles ***/
 
 body
 {
-	font-family: Helvetica, sans-serif;
-	font-size: 13px;
+	font-family: Ruluko, Helvetica, sans-serif;
 	color: #111;
 	background: #333;
 	padding: 20px 0;
