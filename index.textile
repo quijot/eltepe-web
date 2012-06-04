@@ -8,6 +8,22 @@ p=. !=/img/escudo2012TP.png(Escudo Oficial El TePe FC by Nikko)!
 
 p=. Me gusta !{width:20px;}/img/top/facebook-like-button.png(Me gusta El TePe FC en Facebook)!:http://www.facebook.com/ElTpFc/likes El TePe en !{width:15px;}/img/top/facebook-logo.png(El TePe FC en Facebook)!:http://www.facebook.com/ElTpFc
 
+h3. El valor de la pertenencia
+
+La identidad de un equipo de fútbol es un valor sagrado, es el molde donde caben el resto de los atributos. El estilo es el conjunto de rasgos que definen a un equipo y que lo diferencian de los demás, es el motivo de orgullo y son los colores de una bandera invisible de tradiciones, historias y sentimientos. No hay palabras suficientes para describir la complejidad del significado de la identidad. Sin embargo, todos entienden de qué se trata, simplemente porque es el concepto más importante, por encima de tácticas, estrategias, títulos y derrotas. 
+
+La ley Bosman es uno de los episodios más significativos de la historia de este deporte. Es la revolución francesa del fútbol; un cambio drástico de la organización que se conocía hasta el momento. Desde entonces, el fútbol fue diferente. Como apuntaba Jorge Valdano en una riquísima conferencia en la pasada edición de la Feria del Libro, el fútbol pasó a ser un fabuloso exponente de la industria del entretenimiento. Nada menos. 
+
+Las sospechas iniciales de que la globalización acabaría con la esencia deportiva no se han confirmado. Se han rediseñado algunos estilos, pero las tradiciones y las señas de identidad suelen fabricar novedosos anticuerpos para convivir con el virus del mercado. Aún las instituciones más permeables a las coyunturas saben que por mucho balanceo comercial que haya los escudos deben quedar a salvo. Es justamente ese blindaje de los valores lo único que puede sostener el interés del mercado en el largo plazo. 
+
+En medio de semejante agitación, uno de los componentes más dañados de la identidad fue "la pertenencia", el vínculo que antes, naturalmente, se producía entre los clubes y la gente de su cuadra. Cuando de pronto aparecen ejemplos que rescatan la importancia de la pertenencia nos recuerdan el peso decisivo que puede tener. 
+
+Newell's y Central fueron a buscar soluciones en sus raíces. Planteles repletos de jugadores formados en sus casas, entrenadores calificados y enamorados de sus colores y multitudes orgullosas de quienes los representan. Athletic Bilbao nunca se sumó al fútbol mundializado y sin fronteras. Contra todo, optó por afirmar su singularidad, aun sabiendo que en esa decisión poco menos que renunciaba a sus aspiraciones de grandeza. Sin embargo, este año volvieron a creer que era posible dar pelea, incluso partiendo en desventaja. El lunes pasado, Douglas Haig de Pergamino se proclamó campeón del Argentino A, y consiguió el ascenso a la B Nacional, con directivos que devolvieron la "institucionalidad" al club, un plantel compuesto en un 90% por jugadores de Pergamino y la zona, y un entrenador de la ciudad. 
+
+La pertenencia no es cosa de románticos; hasta los más pragmáticos pueden entenderla como un camino al resultado. No hablamos de nostalgia; el sentimiento de pertenencia es esencial y no decorativo. No es el marco de la pintura, es la pintura misma. Pone al amor por el juego y por el club por encima de todo lo que se le ha añadido al fútbol en el camino de la adaptación a los tiempos. Cuando se produce esa atmósfera de comunión, casi de hermandad, el impacto trasciende al episodio deportivo y lo vuelve un hecho social, en Bilbao, en Rosario, en Pergamino. O donde sea.
+
+h5>. por Fernando Pacini
+
 </div>
 
 <div class="panel" id="manifesto">
@@ -257,7 +273,7 @@ _Hincados_: Roni, Rando, Cabe, Chino y Julio.
 
 <div class="panel" id="stats">
 
-h1. ya llegan, pero tranquilos que estamos primeros!
+h1. próximamente...
 
 </div>
 
